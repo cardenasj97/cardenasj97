@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello, welcome to my page 👨‍!
 
-<!--
-**cardenasj97/cardenasj97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Juan Manuel C. and I'm currently working as a Software Developer 👨‍💻
 
-Here are some ideas to get you started:
+With over 4 years in the trenches, I combine my deep-seated passion for coding 👨‍💻 with a voracious appetite for reading programming books and scouring insightful blogs 📘. My journey has been dotted with significant milestones, like when I pioneered a JavaScript automation tool, slashing my team's development time by a staggering 80% ⭐️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍🎨 Frontend Stack
+- UI development: React, Next.js
+- State management: Redux, React Query
+- Styling: Styled Components, Ant Design, Material UI, SASS
+- Testing: React Testing Library, Jest
+
+### 🌐 Backend Stack
+- API Development: Node, Express
+- Testing: Jest
+- Database: PostgreSQL, Firebase, MySQL, Elastic Search
+
+💡 Please don't hesitate to get in touch if you have any questions or if there are any opportunities for collaboration! (🧠 I can learn anything 👌)
