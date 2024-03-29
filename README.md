@@ -7,7 +7,7 @@ As a Software Developer, I combine my deep-seated passion for coding 👨‍💻
 ### 🧑‍🎨 Frontend Stack
 - UI development: React, Next.js
 - State management: Redux, React Query
-- Styling: Styled Components, Ant Design, Material UI, SASS
+- Styling: Tailwind CSS, Styled Components, Ant Design, Material UI, SASS
 - Testing: React Testing Library, Jest
 
 ### 🌐 Backend Stack
