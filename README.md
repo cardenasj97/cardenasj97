@@ -2,7 +2,7 @@
 
 My name is Juan Manuel C. and I'm currently working as a Software Developer 👨‍💻
 
-As a Software Developer, I combine my deep-seated passion for coding 👨‍💻 with a voracious appetite for reading programming books and scouring insightful blogs 📘. My journey has been dotted with significant milestones, like when I pioneered a JavaScript automation tool, slashing my team's development time by 80% ⭐️.
+As a Software Developer, I combine my deep-seated passion for coding 👨‍💻 with a voracious appetite for reading programming books and scouring insightful blogs 📘. My journey has been dotted with significant milestones, like when I pioneered a JavaScript automation tool, slashing my team's development time by 80% ⭐️
 
 ### 🧑‍🎨 Frontend Stack
 - UI development: React, Next.js
