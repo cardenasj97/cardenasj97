@@ -16,3 +16,11 @@ As a Software Developer, I combine my deep-seated passion for coding 👨‍💻
 - Database: PostgreSQL, Firebase, MySQL, Elastic Search
 
 💡 Please don't hesitate to get in touch if you have any questions or if there are any opportunities for collaboration!
+
+### Open Source Contributions
+- [supabase/ssr](https://github.com/supabase/ssr)
+    - [PR #47](https://github.com/supabase/ssr/pull/47)
+- [supabase/supabase](https://github.com/supabase/supabase)
+    - [PR #18563](https://github.com/supabase/supabase/pull/18563)
+- [supabase/auth-js](https://github.com/supabase/auth-js)
+    - [PR #786](https://github.com/supabase/auth-js/pull/786)
