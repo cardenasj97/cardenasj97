@@ -12,7 +12,7 @@ As a Software Developer my journey has been dotted with significant milestones, 
 
 ### 🌐 Backend Stack
 - API Development: Node, Express
-- Testing: Jest
+- Testing: Jest, Supertest
 - Database: PostgreSQL, Firestore, MySQL, Elastic Search
 
 💡 Please don't hesitate to get in touch if you have any questions or if there are any opportunities for collaboration!
